@@ -1,0 +1,14 @@
+body
+{
+    font-family: sans-serif;
+}
+h2
+{
+    margin-top: 0;
+}
+#shape
+{
+    border: 1px solid rebeccapurple;
+    display: none;
+    position: relative;
+} 
